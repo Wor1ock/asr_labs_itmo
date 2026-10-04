@@ -3,8 +3,8 @@
 *.pth
 **/outputs/
 **/data/extra/
-**/data/wav/
-p.txt
+**/data/wav/*
+!lab_01_ru/data/wav/*.wav
 
 # окружение
 .venv/
