@@ -5,6 +5,7 @@
 **/data/extra/
 **/data/wav/*
 !lab_01_ru/data/wav/*.wav
+**/.ipynb_checkpoints/**
 
 # окружение
 .venv/
